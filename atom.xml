@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://r2nnki.github.io</id>
     <title>rinnki&apos;s blog</title>
-    <updated>2021-11-14T11:30:19.488Z</updated>
+    <updated>2021-11-14T11:31:05.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://r2nnki.github.io"/>
     <link rel="self" href="https://r2nnki.github.io/atom.xml"/>
@@ -10,26 +10,4 @@
     <logo>https://r2nnki.github.io/images/avatar.png</logo>
     <icon>https://r2nnki.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, rinnki&apos;s blog</rights>
-    <entry>
-        <title type="html"><![CDATA[一些微软E5子账号——创站福利]]></title>
-        <id>https://r2nnki.github.io/post/1/</id>
-        <link href="https://r2nnki.github.io/post/1/">
-        </link>
-        <updated>2021-11-14T11:10:35.000Z</updated>
-        <content type="html"><![CDATA[<p>创站小福利，本站将送出20个微软E5子账号！</p>
-<p>E5子账号简介：</p>
-<p>参与方式：<br>
-在本文评论区用github登录后，留下你想要的前缀以及接受密码的邮箱即可.</p>
-<p>审核标准：<br>
-1.需在领取后经常使用账号（包括但不限Microsoft 365，Onedrive）；<br>
-2.禁止使用本账号及其附加功能从事非法（包括但不限于暴力恐怖等）或商业活动；<br>
-3.禁止使用本账号及其附加功能进行获利行为（包括但不限于出售账号）；</p>
-<p>重要须知：<br>
-本账号所属Microsoft 365开发人员订阅为续订制，无法保证账号永久可用 因此造成的数据或财产损失本站不承担任何责任；<br>
-在账号使用过程中造成的非法、侵权行为均由使用人承担，本站不承担任何法律责任；<br>
-凡违反审核标准的账号，将在核实后予以永久删除，并被本站永久拉黑；<br>
-本活动可能由于不确定因素而发生改变，活动最终解释权归属本站；<br>
-凡申请子账号即默认您已经阅读并同意了本活动的规定.</p>
-]]></content>
-    </entry>
 </feed>
