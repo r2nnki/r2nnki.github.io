@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://r2nnki.github.io</id>
+    <id>http://localhost:4000</id>
     <title>rinnki&apos;s blog</title>
-    <updated>2022-01-30T14:20:06.691Z</updated>
+    <updated>2022-01-30T14:58:13.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://r2nnki.github.io"/>
-    <link rel="self" href="https://r2nnki.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://r2nnki.github.io/images/avatar.png</logo>
-    <icon>https://r2nnki.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, rinnki&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[【C++讲义】黑马程序员之C++第一阶段基础入门]]></title>
-        <id>https://r2nnki.github.io/post/cpp01/</id>
-        <link href="https://r2nnki.github.io/post/cpp01/">
+        <id>http://localhost:4000/post/cpp01/</id>
+        <link href="http://localhost:4000/post/cpp01/">
         </link>
         <updated>2022-01-30T14:19:53.000Z</updated>
         <content type="html"><![CDATA[<h1 id="c基础入门">C++基础入门</h1>
@@ -3100,8 +3100,8 @@ int main() {
     </entry>
     <entry>
         <title type="html"><![CDATA[【C++讲义】黑马程序员之C++第二阶段通讯录管理系统]]></title>
-        <id>https://r2nnki.github.io/post/cpp02/</id>
-        <link href="https://r2nnki.github.io/post/cpp02/">
+        <id>http://localhost:4000/post/cpp02/</id>
+        <link href="http://localhost:4000/post/cpp02/">
         </link>
         <updated>2022-01-30T14:19:40.000Z</updated>
         <content type="html"><![CDATA[<h1 id="通讯录管理系统">通讯录管理系统</h1>
